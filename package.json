@@ -9,6 +9,11 @@
   "author": "Mario Lau <liuminghao233@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@okfe/okex-node": "^0.0.52",
+    "@types/redis": "^2.8.25",
+    "esm": "^3.2.25",
+    "redis": "^3.0.2",
+    "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
   }
 }
