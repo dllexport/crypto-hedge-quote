@@ -1,0 +1,14 @@
+{
+  "name": "crypto-hedge-quote",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": "https://github.com/dllexport/crypto-hedge-quote.git",
+  "author": "Mario Lau <liuminghao233@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.9.7"
+  }
+}
